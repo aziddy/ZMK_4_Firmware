@@ -1,0 +1,20 @@
+{
+    "name": "Ziddy Makes (ZMK) 4 Key Macropad",
+    "vendorId": "0x7546",
+    "productId": "0x4878",
+    "lighting": "none",
+    "matrix": {"rows": 2, "cols": 2},
+    "layouts":{
+        "keymap":[
+            ["0,0","0,1"],
+            ["0,2","0,3"]
+        ]
+
+    }
+  }
+
+
+
+
+
+    
